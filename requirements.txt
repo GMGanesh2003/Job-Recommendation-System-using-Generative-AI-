@@ -1,0 +1,5 @@
+streamlit
+openai  # or use any model
+pymupdf  # processes PDF files
+python-dotenv
+apify-client
