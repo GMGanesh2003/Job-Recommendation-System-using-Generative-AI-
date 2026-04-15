@@ -41,7 +41,7 @@ The system follows a modular pipeline:
 
 ## 🖼️ Architecture Diagram
 
-![System Architecture](job_gen_arch.png)
+![System Architecture](job gen arch.jpeg)
 
 ---
 
