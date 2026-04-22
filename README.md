@@ -1,6 +1,6 @@
 # 🚀 JobGenAI – AI-Powered Job Recommendation System
 
-JobGenAI is a Generative AI-powered job recommendation system that analyzes user resumes and provides intelligent, relevant job suggestions using semantic understanding instead of traditional keyword matching.
+JobGenAI is a Generative AI-powered job recommendation system that analyzes user resumes and provides intelligent, relevant job suggestions using semantic understanding instead of traditional keyword matching and helps to improve job opportunites.
 
 ---
 
